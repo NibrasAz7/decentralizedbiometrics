@@ -1,4 +1,4 @@
-# BiometricIdentity DApp README ![Ethereum](https://img.shields.io/badge/platform-Ethereum-lightgrey.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+# BiometricIdentity DApp README ![Ethereum](https://img.shields.io/badge/platform-Ethereum-lightgrey.svg) ![License MIT]([https://img.shields.io/badge/license-MIT-blue.svg](https://spdx.org/licenses/MIT.html))
 
 ## 🌟 Introduction
 
