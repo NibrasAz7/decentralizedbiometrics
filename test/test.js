@@ -3,10 +3,10 @@ const truffleAssert = require('truffle-assertions');
 
 contract("BiometricIdentity", (accounts) => {
   let biometricIdentityInstance;
-  let Main_Enrollment_Center = accounts[0] // Main_Enrollment_Center reponsabile for deploymnet of smart contract
+  let Main_Enrollment_Center = accounts[0] // Main_Enrollment_Center responsible for deployment of smart contract
   let postOfficeAddress =  accounts[1] // Post Office Address for testing as AC node
-  let hospitalAddress =  accounts[2] //  Hospital Address for testing as not registered node
-  let ComuneAddress =  accounts[3] // // White-hat Hacker Address for testing as AC node 
+  let hospitalAddress =  accounts[2] //  Hospital Address for testing as AC node
+  let ComuneAddress =  accounts[3] // Comune Address for testing
   let whiteHatHackerAddress =  accounts[4] // // White-hat Hacker Address for testing as AC node 
 
   before(async () => {
