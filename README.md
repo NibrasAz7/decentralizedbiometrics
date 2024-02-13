@@ -1,4 +1,10 @@
-# BiometricIdentity DApp README ![Ethereum](https://img.shields.io/badge/platform-Ethereum-lightgrey.svg) ![License MIT]([https://img.shields.io/badge/license-MIT-blue.svg](https://spdx.org/licenses/MIT.html))
+# BiometricIdentity DApp README 
+
+[![Truffle Suite](https://img.shields.io/badge/developed%20with-Truffle%20Suite-orange.svg)](https://trufflesuite.com/)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
+[![Ethereum](https://img.shields.io/badge/platform-Ethereum-lightgrey.svg)]()
+![In Development](https://img.shields.io/badge/status-in%20development-green.svg)
+![Publications](https://img.shields.io/badge/publications-0-red.svg)
 
 ## 🌟 Introduction
 
